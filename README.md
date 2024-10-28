@@ -13,8 +13,6 @@ tambien soy como la vieja al bisillo, me gusta enterarme de to lo vivo 😱
 
 ![](https://imagenes.elpais.com/resizer/v2/DTVG7FYRUZ2OBN7XKLKQAJ6MVY.jpg?auth=d5dbdbbccb2a4904002fcd3ff073970981367d080b73fd902316af51f6aba91d&width=1960&height=1103&smart=true)
 
-![](https://i.ytimg.com/vi/sVMfiOg-9lw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA8jqZNvwd8Zinz-BSjyog7j2bwrA)
-
 y bueno espero sacarme el grado de una buena vez que quiero perricas, que los caprichos no se pagan solos💰💰
 
 ahora la entrevista
