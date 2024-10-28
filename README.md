@@ -29,14 +29,14 @@ Centro Integral de Formación Profesional a Distancia "La Conservera"- Región d
   * grado medio en sistemas microinformaticos y redes
   * certificados de grado medio de gestion administrativa
 
-***Asignaturas Matriculadas:**
+* **Asignaturas Matriculadas:**
   * programacion
   * ingles profesional
   * lenguaje de marcas
   * base de datos
   * digitalizacion aplicada a sectores productivos
 
-***asignaturas convalidadas:**
+* **asignaturas convalidadas:**
   * itinerario personal para la empleabilidad
   * sistemas informaticos
   * entornos de desarrollo
@@ -44,7 +44,7 @@ Centro Integral de Formación Profesional a Distancia "La Conservera"- Región d
  **enlace del centro educativo**
   [I.E.S Los Albares](https://www.ieslosalbares.es/ "I.E.S Los Albares" )
 
-***Stack Tecnológico Conocido:**
+* **Stack Tecnológico Conocido:**
     * java
     * html
     * css
@@ -68,7 +68,7 @@ Centro Integral de Formación Profesional a Distancia "La Conservera"- Región d
   * postgressql
   * mongodb
 
-***Preferencias Tecnológicas:**
+* **Preferencias Tecnológicas:**
     * mantenimiento de software
     * base de datos
     * ciberseguridad en un futuro que nose cuando sera
