@@ -21,30 +21,30 @@ y bueno espero sacarme el grado de una buena vez que quiero perricas, que los ca
 
 ahora la entrevista
 
-** entidad educativa: **
+**entidad educativa:**
 Centro Integral de Formación Profesional a Distancia "La Conservera"- Región de Murcia
 
-** * Nivel Educativo: **
+***Nivel Educativo:**
   * E.S.O
   * grado medio en sistemas microinformaticos y redes
   * certificados de grado medio de gestion administrativa
 
-** * Asignaturas Matriculadas: **
+***Asignaturas Matriculadas:**
   * programacion
   * ingles profesional
   * lenguaje de marcas
   * base de datos
   * digitalizacion aplicada a sectores productivos
 
-** * asignaturas convalidadas: **
+***asignaturas convalidadas:**
   * itinerario personal para la empleabilidad
   * sistemas informaticos
   * entornos de desarrollo
 
- ** enlace del centro educativo **
+ **enlace del centro educativo**
   [I.E.S Los Albares](https://www.ieslosalbares.es/ "I.E.S Los Albares" )
 
-**  * Stack Tecnológico Conocido: **
+***Stack Tecnológico Conocido:**
     * java
     * html
     * css
@@ -58,7 +58,7 @@ Centro Integral de Formación Profesional a Distancia "La Conservera"- Región d
     * neetbeans
     * git
 
- ** Stack Tecnológico del Curso: ** (ya no me aparece entornos de desarrollo pero como soy repetidor te comento)
+ **Stack Tecnológico del Curso:** (ya no me aparece entornos de desarrollo pero como soy repetidor te comento)
  * programacion:
    * intelliJ
 
@@ -68,7 +68,7 @@ Centro Integral de Formación Profesional a Distancia "La Conservera"- Región d
   * postgressql
   * mongodb
 
-** * Preferencias Tecnológicas: **
+***Preferencias Tecnológicas:**
     * mantenimiento de software
     * base de datos
     * ciberseguridad en un futuro que nose cuando sera
