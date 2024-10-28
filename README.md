@@ -24,7 +24,7 @@ ahora la entrevista
 **entidad educativa:**
 Centro Integral de Formación Profesional a Distancia "La Conservera"- Región de Murcia
 
-***Nivel Educativo:**
+* **Nivel Educativo:**
   * E.S.O
   * grado medio en sistemas microinformaticos y redes
   * certificados de grado medio de gestion administrativa
